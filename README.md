@@ -1,5 +1,6 @@
 --Author Marcus Peterson--
-# W.A.V.E.G.E.N![nedladdning](https://user-images.githubusercontent.com/73422974/220188433-9a86fe5d-d59c-48f8-8383-16da0d1b30ee.jpg)
+# W.A.V.E.G.E.N
+[nedladdning](https://user-images.githubusercontent.com/73422974/220188433-9a86fe5d-d59c-48f8-8383-16da0d1b30ee.jpg)
 
 W.A.V.E.G.E.N. - Weapon and Explosive Virtual Engineer using Generative Enhanced Neural networks
 Wavegen is a Standard Template Construct. Meaning it's both system and a database. 
