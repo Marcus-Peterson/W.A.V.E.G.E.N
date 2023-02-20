@@ -5,7 +5,7 @@
 
 
 W.A.V.E.G.E.N. - Weapon and Explosive Virtual Engineer using Generative Enhanced Neural networks
-Wavegen is a Standard Template Construct. Meaning it's both a system and a database. 
+is a Standard Template Construct. Meaning it's both an intelligent system and a database. 
 
 Wavegen uses artificial intelligence to design and give instructions on how to build weapons and explosives
 
